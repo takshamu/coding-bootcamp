@@ -1,0 +1,15 @@
+/*element name selector */
+
+h2{
+    color: red;
+}
+ body{
+     font-family: 'Times New Roman', Times, serif;
+     font-weight: 500;
+     line-height: 30px;
+    letter-spacing: 1px;
+ }
+ img{
+     width: 50%;
+ }
+ 
